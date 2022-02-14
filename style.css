@@ -1,0 +1,24 @@
+.h1 {
+    color: white;
+    font-size: 50px;
+    text-align: Center;
+}
+.div {
+    color: antiquewhite;
+    font-size: 25px;
+}
+.p {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.odin {
+    height: 400px;
+    width: 500px;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+}
+.body {
+    background-color: black;
+}

@@ -1,0 +1,12 @@
+.body {
+    background-color: black;
+}
+.div {
+    color: white;
+    text-align: center;
+}
+.divi {
+    text-align: left;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
